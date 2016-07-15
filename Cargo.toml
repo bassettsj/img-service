@@ -1,0 +1,6 @@
+[package]
+name = "img_service"
+version = "0.1.0"
+authors = ["Steven Bassett <steven.j.bassett@gmail.com>"]
+
+[dependencies]
